@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Ing en sistemas 1 semsetre\\Tercer semestre\\Programacion 1\\programas\\proyecto 1 programacion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEFC5869-AFE4-46AC-9489-4F5A6217C15C}|proyecto 1 programacion.csproj|c:\\users\\asus\\onedrive\\documentos\\ing en sistemas 1 semsetre\\tercer semestre\\programacion 1\\programas\\proyecto 1 programacion\\clases\\generarpowerpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEFC5869-AFE4-46AC-9489-4F5A6217C15C}|proyecto 1 programacion.csproj|solutionrelative:clases\\generarpowerpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEFC5869-AFE4-46AC-9489-4F5A6217C15C}|proyecto 1 programacion.csproj|c:\\users\\asus\\onedrive\\documentos\\ing en sistemas 1 semsetre\\tercer semestre\\programacion 1\\programas\\proyecto 1 programacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEFC5869-AFE4-46AC-9489-4F5A6217C15C}|proyecto 1 programacion.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEFC5869-AFE4-46AC-9489-4F5A6217C15C}|proyecto 1 programacion.csproj|c:\\users\\asus\\onedrive\\documentos\\ing en sistemas 1 semsetre\\tercer semestre\\programacion 1\\programas\\proyecto 1 programacion\\clases\\iaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEFC5869-AFE4-46AC-9489-4F5A6217C15C}|proyecto 1 programacion.csproj|solutionrelative:clases\\iaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEFC5869-AFE4-46AC-9489-4F5A6217C15C}|proyecto 1 programacion.csproj|c:\\users\\asus\\onedrive\\documentos\\ing en sistemas 1 semsetre\\tercer semestre\\programacion 1\\programas\\proyecto 1 programacion\\clases\\bdservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEFC5869-AFE4-46AC-9489-4F5A6217C15C}|proyecto 1 programacion.csproj|solutionrelative:clases\\bdservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEFC5869-AFE4-46AC-9489-4F5A6217C15C}|proyecto 1 programacion.csproj|C:\\Users\\ASUS\\OneDrive\\Documentos\\Ing en sistemas 1 semsetre\\Tercer semestre\\Programacion 1\\programas\\proyecto 1 programacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEFC5869-AFE4-46AC-9489-4F5A6217C15C}|proyecto 1 programacion.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEFC5869-AFE4-46AC-9489-4F5A6217C15C}|proyecto 1 programacion.csproj|c:\\users\\asus\\onedrive\\documentos\\ing en sistemas 1 semsetre\\tercer semestre\\programacion 1\\programas\\proyecto 1 programacion\\clases\\generarword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEFC5869-AFE4-46AC-9489-4F5A6217C15C}|proyecto 1 programacion.csproj|solutionrelative:clases\\generarword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEFC5869-AFE4-46AC-9489-4F5A6217C15C}|proyecto 1 programacion.csproj|c:\\users\\asus\\onedrive\\documentos\\ing en sistemas 1 semsetre\\tercer semestre\\programacion 1\\programas\\proyecto 1 programacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FEFC5869-AFE4-46AC-9489-4F5A6217C15C}|proyecto 1 programacion.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Ing en sistemas 1 semsetre\\Tercer semestre\\Programacion 1\\programas\\proyecto 1 programacion\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Ing en sistemas 1 semsetre\\Tercer semestre\\Programacion 1\\programas\\proyecto 1 programacion\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAmwEcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:13:54.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenerarPowerPoint.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Ing en sistemas 1 semsetre\\Tercer semestre\\Programacion 1\\programas\\proyecto 1 programacion\\Clases\\GenerarPowerPoint.cs",
+              "RelativeDocumentMoniker": "Clases\\GenerarPowerPoint.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Ing en sistemas 1 semsetre\\Tercer semestre\\Programacion 1\\programas\\proyecto 1 programacion\\Clases\\GenerarPowerPoint.cs",
+              "RelativeToolTip": "Clases\\GenerarPowerPoint.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwEEAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:10:18.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenerarWord.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Ing en sistemas 1 semsetre\\Tercer semestre\\Programacion 1\\programas\\proyecto 1 programacion\\Clases\\GenerarWord.cs",
+              "RelativeDocumentMoniker": "Clases\\GenerarWord.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Ing en sistemas 1 semsetre\\Tercer semestre\\Programacion 1\\programas\\proyecto 1 programacion\\Clases\\GenerarWord.cs",
+              "RelativeToolTip": "Clases\\GenerarWord.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:08:18.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Ing en sistemas 1 semsetre\\Tercer semestre\\Programacion 1\\programas\\proyecto 1 programacion\\Clases\\IAService.cs",
+              "RelativeDocumentMoniker": "Clases\\IAService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Ing en sistemas 1 semsetre\\Tercer semestre\\Programacion 1\\programas\\proyecto 1 programacion\\Clases\\IAService.cs",
+              "RelativeToolTip": "Clases\\IAService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:06:31.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BDService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Ing en sistemas 1 semsetre\\Tercer semestre\\Programacion 1\\programas\\proyecto 1 programacion\\Clases\\BDService.cs",
+              "RelativeDocumentMoniker": "Clases\\BDService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Ing en sistemas 1 semsetre\\Tercer semestre\\Programacion 1\\programas\\proyecto 1 programacion\\Clases\\BDService.cs",
+              "RelativeToolTip": "Clases\\BDService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:05:16.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Ing en sistemas 1 semsetre\\Tercer semestre\\Programacion 1\\programas\\proyecto 1 programacion\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Ing en sistemas 1 semsetre\\Tercer semestre\\Programacion 1\\programas\\proyecto 1 programacion\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-22T20:25:07.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Ing en sistemas 1 semsetre\\Tercer semestre\\Programacion 1\\programas\\proyecto 1 programacion\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Ing en sistemas 1 semsetre\\Tercer semestre\\Programacion 1\\programas\\proyecto 1 programacion\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T03:33:31.695Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
