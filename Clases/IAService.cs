@@ -10,7 +10,7 @@ public class IAservice
     public IAservice()
     {
         cliente = new HttpClient();
-        cliente.DefaultRequestHeaders.Add("Authorization", "Bearer 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");
+        cliente.DefaultRequestHeaders.Add("Authorization", "api key");
     }
 
     public async Task<string> ConsultarIA(string prompt)
